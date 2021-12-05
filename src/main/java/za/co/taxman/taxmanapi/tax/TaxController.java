@@ -14,6 +14,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.Reader;
 import java.lang.reflect.Type;
+import java.util.Collections;
 import java.util.List;
 
 @RestController
@@ -30,7 +31,7 @@ public class TaxController {
             @RequestParam int monthlyIncome,
             @RequestParam int age
     ) throws IOException {
-        
+
         if (monthlyIncome < 0 || age < 0) {
             throw new ResponseStatusException(HttpStatus.BAD_REQUEST, "Income and/or age cannot be negative.");
         }
@@ -58,11 +59,18 @@ public class TaxController {
         }.getType();
 
         List<PayeBracket> listOfBrackets = new Gson().fromJson(streamReader, listType);
+        int index = Collections.binarySearch(listOfBrackets, monthlyIncome);
+        PayeBracket taxInformation = listOfBrackets.get(index);
 
-        // Monthly income logic 2.0 - fetch correct salary object
-        // Age logic
-        // Response model
+        int taxAmount;
+        if (age <= 64){
+            taxAmount = taxInformation.under65;
+        } else if (age <= 74){
+            taxAmount = taxInformation.from65To74;
+        } else {
+            taxAmount = taxInformation.over74;
+        }
 
-        return new PersonalTaxResponse(monthlyIncome, age);
+        return new PersonalTaxResponse(taxAmount);
     }
 }

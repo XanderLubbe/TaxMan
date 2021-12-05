@@ -4,11 +4,9 @@ import java.math.BigDecimal;
 
 public class PersonalTaxResponse {
 
-    public int monthlyIncome;
-    public int age;
+    public int taxAmount;
 
-    PersonalTaxResponse(int monthlyIncome, int age) {
-        this.monthlyIncome = monthlyIncome;
-        this.age = age;
+    PersonalTaxResponse(int taxAmount) {
+        this.taxAmount = taxAmount;
     }
 }
