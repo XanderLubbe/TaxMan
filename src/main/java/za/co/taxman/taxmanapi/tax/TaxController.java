@@ -7,11 +7,8 @@ import org.springframework.web.bind.annotation.RestController;
 public class TaxController {
 
     @GetMapping("/tax/personal")
-    boolean returnPersonalTax(income, age) {
-        if(income){
-
-        }
-        return true;
+    PersonalTaxResponse returnPersonalTax() {
+        return new PersonalTaxResponse();
     }
 
 }
