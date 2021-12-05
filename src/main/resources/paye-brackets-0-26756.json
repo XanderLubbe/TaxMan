@@ -1,0 +1,2998 @@
+[
+  {
+    "minIncome": 0,
+    "maxIncome": 4979,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 4980,
+    "maxIncome": 5030,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5031,
+    "maxIncome": 5081,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5082,
+    "maxIncome": 5132,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5133,
+    "maxIncome": 5183,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5184,
+    "maxIncome": 5234,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5235,
+    "maxIncome": 5285,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5286,
+    "maxIncome": 5336,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5337,
+    "maxIncome": 5387,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5388,
+    "maxIncome": 5438,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5439,
+    "maxIncome": 5489,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5490,
+    "maxIncome": 5540,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5541,
+    "maxIncome": 5591,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5592,
+    "maxIncome": 5642,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5643,
+    "maxIncome": 5693,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5694,
+    "maxIncome": 5744,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5745,
+    "maxIncome": 5795,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5796,
+    "maxIncome": 5846,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5847,
+    "maxIncome": 5897,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5898,
+    "maxIncome": 5948,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 5949,
+    "maxIncome": 5999,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6000,
+    "maxIncome": 6050,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6051,
+    "maxIncome": 6101,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6102,
+    "maxIncome": 6152,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6153,
+    "maxIncome": 6203,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6204,
+    "maxIncome": 6254,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6255,
+    "maxIncome": 6305,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6306,
+    "maxIncome": 6356,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6357,
+    "maxIncome": 6407,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6408,
+    "maxIncome": 6458,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6459,
+    "maxIncome": 6509,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6510,
+    "maxIncome": 6560,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6561,
+    "maxIncome": 6611,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6612,
+    "maxIncome": 6662,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6663,
+    "maxIncome": 6713,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6714,
+    "maxIncome": 6764,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6765,
+    "maxIncome": 6815,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6816,
+    "maxIncome": 6866,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6867,
+    "maxIncome": 6917,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6918,
+    "maxIncome": 6968,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 6969,
+    "maxIncome": 7019,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7020,
+    "maxIncome": 7070,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7071,
+    "maxIncome": 7121,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7122,
+    "maxIncome": 7172,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7173,
+    "maxIncome": 7223,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7224,
+    "maxIncome": 7274,
+    "under65": 0,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7275,
+    "maxIncome": 7325,
+    "under65": 4,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7326,
+    "maxIncome": 7376,
+    "under65": 14,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7377,
+    "maxIncome": 7427,
+    "under65": 23,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7428,
+    "maxIncome": 7478,
+    "under65": 32,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7479,
+    "maxIncome": 7529,
+    "under65": 41,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7530,
+    "maxIncome": 7580,
+    "under65": 50,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7581,
+    "maxIncome": 7631,
+    "under65": 60,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7632,
+    "maxIncome": 7682,
+    "under65": 69,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7683,
+    "maxIncome": 7733,
+    "under65": 78,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7734,
+    "maxIncome": 7784,
+    "under65": 87,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7785,
+    "maxIncome": 7835,
+    "under65": 96,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7836,
+    "maxIncome": 7886,
+    "under65": 105,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7887,
+    "maxIncome": 7937,
+    "under65": 115,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7938,
+    "maxIncome": 7988,
+    "under65": 124,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 7989,
+    "maxIncome": 8039,
+    "under65": 133,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8040,
+    "maxIncome": 8090,
+    "under65": 142,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8091,
+    "maxIncome": 8141,
+    "under65": 151,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8142,
+    "maxIncome": 8192,
+    "under65": 161,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8193,
+    "maxIncome": 8243,
+    "under65": 170,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8244,
+    "maxIncome": 8294,
+    "under65": 179,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8295,
+    "maxIncome": 8345,
+    "under65": 188,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8346,
+    "maxIncome": 8396,
+    "under65": 197,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8397,
+    "maxIncome": 8447,
+    "under65": 206,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8448,
+    "maxIncome": 8498,
+    "under65": 216,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8499,
+    "maxIncome": 8549,
+    "under65": 225,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8550,
+    "maxIncome": 8600,
+    "under65": 234,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8601,
+    "maxIncome": 8651,
+    "under65": 243,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8652,
+    "maxIncome": 8702,
+    "under65": 252,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8703,
+    "maxIncome": 8753,
+    "under65": 262,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8754,
+    "maxIncome": 8804,
+    "under65": 271,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8805,
+    "maxIncome": 8855,
+    "under65": 280,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8856,
+    "maxIncome": 8906,
+    "under65": 289,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8907,
+    "maxIncome": 8957,
+    "under65": 298,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 8958,
+    "maxIncome": 9008,
+    "under65": 307,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9009,
+    "maxIncome": 9059,
+    "under65": 317,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9060,
+    "maxIncome": 9110,
+    "under65": 326,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9111,
+    "maxIncome": 9161,
+    "under65": 335,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9162,
+    "maxIncome": 9212,
+    "under65": 344,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9213,
+    "maxIncome": 9263,
+    "under65": 353,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9264,
+    "maxIncome": 9314,
+    "under65": 363,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9315,
+    "maxIncome": 9365,
+    "under65": 372,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9366,
+    "maxIncome": 9416,
+    "under65": 381,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9417,
+    "maxIncome": 9467,
+    "under65": 390,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9468,
+    "maxIncome": 9518,
+    "under65": 399,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9519,
+    "maxIncome": 9569,
+    "under65": 408,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9570,
+    "maxIncome": 9620,
+    "under65": 418,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9621,
+    "maxIncome": 9671,
+    "under65": 427,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9672,
+    "maxIncome": 9722,
+    "under65": 436,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9723,
+    "maxIncome": 9773,
+    "under65": 445,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9774,
+    "maxIncome": 9824,
+    "under65": 454,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9825,
+    "maxIncome": 9875,
+    "under65": 463,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9876,
+    "maxIncome": 9926,
+    "under65": 473,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9927,
+    "maxIncome": 9977,
+    "under65": 482,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 9978,
+    "maxIncome": 10028,
+    "under65": 491,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10029,
+    "maxIncome": 10079,
+    "under65": 500,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10080,
+    "maxIncome": 10130,
+    "under65": 509,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10131,
+    "maxIncome": 10181,
+    "under65": 519,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10182,
+    "maxIncome": 10232,
+    "under65": 528,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10233,
+    "maxIncome": 10283,
+    "under65": 537,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10284,
+    "maxIncome": 10334,
+    "under65": 546,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10335,
+    "maxIncome": 10385,
+    "under65": 555,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10386,
+    "maxIncome": 10436,
+    "under65": 564,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10437,
+    "maxIncome": 10487,
+    "under65": 574,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10488,
+    "maxIncome": 10538,
+    "under65": 583,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10539,
+    "maxIncome": 10589,
+    "under65": 592,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10590,
+    "maxIncome": 10640,
+    "under65": 601,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10641,
+    "maxIncome": 10691,
+    "under65": 610,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10692,
+    "maxIncome": 10742,
+    "under65": 620,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10743,
+    "maxIncome": 10793,
+    "under65": 629,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10794,
+    "maxIncome": 10844,
+    "under65": 638,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10845,
+    "maxIncome": 10895,
+    "under65": 647,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10896,
+    "maxIncome": 10946,
+    "under65": 656,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10947,
+    "maxIncome": 10997,
+    "under65": 665,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 10998,
+    "maxIncome": 11048,
+    "under65": 675,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 11049,
+    "maxIncome": 11099,
+    "under65": 684,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 11100,
+    "maxIncome": 11150,
+    "under65": 693,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 11151,
+    "maxIncome": 11201,
+    "under65": 702,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 11202,
+    "maxIncome": 11252,
+    "under65": 711,
+    "from65To74": 0,
+    "over74": 0
+  },
+  {
+    "minIncome": 11253,
+    "maxIncome": 11303,
+    "under65": 721,
+    "from65To74": 3,
+    "over74": 0
+  },
+  {
+    "minIncome": 11304,
+    "maxIncome": 11354,
+    "under65": 730,
+    "from65To74": 12,
+    "over74": 0
+  },
+  {
+    "minIncome": 11355,
+    "maxIncome": 11405,
+    "under65": 739,
+    "from65To74": 21,
+    "over74": 0
+  },
+  {
+    "minIncome": 11406,
+    "maxIncome": 11456,
+    "under65": 748,
+    "from65To74": 30,
+    "over74": 0
+  },
+  {
+    "minIncome": 11457,
+    "maxIncome": 11507,
+    "under65": 757,
+    "from65To74": 39,
+    "over74": 0
+  },
+  {
+    "minIncome": 11508,
+    "maxIncome": 11558,
+    "under65": 766,
+    "from65To74": 49,
+    "over74": 0
+  },
+  {
+    "minIncome": 11559,
+    "maxIncome": 11609,
+    "under65": 776,
+    "from65To74": 58,
+    "over74": 0
+  },
+  {
+    "minIncome": 11610,
+    "maxIncome": 11660,
+    "under65": 785,
+    "from65To74": 67,
+    "over74": 0
+  },
+  {
+    "minIncome": 11661,
+    "maxIncome": 11711,
+    "under65": 794,
+    "from65To74": 76,
+    "over74": 0
+  },
+  {
+    "minIncome": 11712,
+    "maxIncome": 11762,
+    "under65": 803,
+    "from65To74": 85,
+    "over74": 0
+  },
+  {
+    "minIncome": 11763,
+    "maxIncome": 11813,
+    "under65": 812,
+    "from65To74": 95,
+    "over74": 0
+  },
+  {
+    "minIncome": 11814,
+    "maxIncome": 11864,
+    "under65": 822,
+    "from65To74": 104,
+    "over74": 0
+  },
+  {
+    "minIncome": 11865,
+    "maxIncome": 11915,
+    "under65": 831,
+    "from65To74": 113,
+    "over74": 0
+  },
+  {
+    "minIncome": 11916,
+    "maxIncome": 11966,
+    "under65": 840,
+    "from65To74": 122,
+    "over74": 0
+  },
+  {
+    "minIncome": 11967,
+    "maxIncome": 12017,
+    "under65": 849,
+    "from65To74": 131,
+    "over74": 0
+  },
+  {
+    "minIncome": 12018,
+    "maxIncome": 12068,
+    "under65": 858,
+    "from65To74": 140,
+    "over74": 0
+  },
+  {
+    "minIncome": 12069,
+    "maxIncome": 12119,
+    "under65": 867,
+    "from65To74": 150,
+    "over74": 0
+  },
+  {
+    "minIncome": 12120,
+    "maxIncome": 12170,
+    "under65": 877,
+    "from65To74": 159,
+    "over74": 0
+  },
+  {
+    "minIncome": 12171,
+    "maxIncome": 12221,
+    "under65": 886,
+    "from65To74": 168,
+    "over74": 0
+  },
+  {
+    "minIncome": 12222,
+    "maxIncome": 12272,
+    "under65": 895,
+    "from65To74": 177,
+    "over74": 0
+  },
+  {
+    "minIncome": 12273,
+    "maxIncome": 12323,
+    "under65": 904,
+    "from65To74": 186,
+    "over74": 0
+  },
+  {
+    "minIncome": 12324,
+    "maxIncome": 12374,
+    "under65": 913,
+    "from65To74": 196,
+    "over74": 0
+  },
+  {
+    "minIncome": 12375,
+    "maxIncome": 12425,
+    "under65": 922,
+    "from65To74": 205,
+    "over74": 0
+  },
+  {
+    "minIncome": 12426,
+    "maxIncome": 12476,
+    "under65": 932,
+    "from65To74": 214,
+    "over74": 0
+  },
+  {
+    "minIncome": 12477,
+    "maxIncome": 12527,
+    "under65": 941,
+    "from65To74": 223,
+    "over74": 0
+  },
+  {
+    "minIncome": 12528,
+    "maxIncome": 12578,
+    "under65": 950,
+    "from65To74": 232,
+    "over74": 0
+  },
+  {
+    "minIncome": 12579,
+    "maxIncome": 12629,
+    "under65": 959,
+    "from65To74": 241,
+    "over74": 2
+  },
+  {
+    "minIncome": 12630,
+    "maxIncome": 12680,
+    "under65": 968,
+    "from65To74": 251,
+    "over74": 11
+  },
+  {
+    "minIncome": 12681,
+    "maxIncome": 12731,
+    "under65": 978,
+    "from65To74": 260,
+    "over74": 21
+  },
+  {
+    "minIncome": 12732,
+    "maxIncome": 12782,
+    "under65": 987,
+    "from65To74": 269,
+    "over74": 30
+  },
+  {
+    "minIncome": 12783,
+    "maxIncome": 12833,
+    "under65": 996,
+    "from65To74": 278,
+    "over74": 39
+  },
+  {
+    "minIncome": 12834,
+    "maxIncome": 12884,
+    "under65": 1005,
+    "from65To74": 287,
+    "over74": 48
+  },
+  {
+    "minIncome": 12885,
+    "maxIncome": 12935,
+    "under65": 1014,
+    "from65To74": 297,
+    "over74": 57
+  },
+  {
+    "minIncome": 12936,
+    "maxIncome": 12986,
+    "under65": 1023,
+    "from65To74": 306,
+    "over74": 66
+  },
+  {
+    "minIncome": 12987,
+    "maxIncome": 13037,
+    "under65": 1033,
+    "from65To74": 315,
+    "over74": 76
+  },
+  {
+    "minIncome": 13038,
+    "maxIncome": 13088,
+    "under65": 1042,
+    "from65To74": 324,
+    "over74": 85
+  },
+  {
+    "minIncome": 13089,
+    "maxIncome": 13139,
+    "under65": 1051,
+    "from65To74": 333,
+    "over74": 94
+  },
+  {
+    "minIncome": 13140,
+    "maxIncome": 13190,
+    "under65": 1060,
+    "from65To74": 342,
+    "over74": 103
+  },
+  {
+    "minIncome": 13191,
+    "maxIncome": 13241,
+    "under65": 1069,
+    "from65To74": 352,
+    "over74": 112
+  },
+  {
+    "minIncome": 13242,
+    "maxIncome": 13292,
+    "under65": 1079,
+    "from65To74": 361,
+    "over74": 122
+  },
+  {
+    "minIncome": 13293,
+    "maxIncome": 13343,
+    "under65": 1088,
+    "from65To74": 370,
+    "over74": 131
+  },
+  {
+    "minIncome": 13344,
+    "maxIncome": 13394,
+    "under65": 1097,
+    "from65To74": 379,
+    "over74": 140
+  },
+  {
+    "minIncome": 13395,
+    "maxIncome": 13445,
+    "under65": 1106,
+    "from65To74": 388,
+    "over74": 149
+  },
+  {
+    "minIncome": 13446,
+    "maxIncome": 13496,
+    "under65": 1115,
+    "from65To74": 398,
+    "over74": 158
+  },
+  {
+    "minIncome": 13497,
+    "maxIncome": 13547,
+    "under65": 1124,
+    "from65To74": 407,
+    "over74": 167
+  },
+  {
+    "minIncome": 13548,
+    "maxIncome": 13598,
+    "under65": 1134,
+    "from65To74": 416,
+    "over74": 177
+  },
+  {
+    "minIncome": 13599,
+    "maxIncome": 13649,
+    "under65": 1143,
+    "from65To74": 425,
+    "over74": 186
+  },
+  {
+    "minIncome": 13650,
+    "maxIncome": 13700,
+    "under65": 1152,
+    "from65To74": 434,
+    "over74": 195
+  },
+  {
+    "minIncome": 13701,
+    "maxIncome": 13751,
+    "under65": 1161,
+    "from65To74": 443,
+    "over74": 204
+  },
+  {
+    "minIncome": 13752,
+    "maxIncome": 13802,
+    "under65": 1170,
+    "from65To74": 453,
+    "over74": 213
+  },
+  {
+    "minIncome": 13803,
+    "maxIncome": 13853,
+    "under65": 1180,
+    "from65To74": 462,
+    "over74": 223
+  },
+  {
+    "minIncome": 13854,
+    "maxIncome": 13904,
+    "under65": 1189,
+    "from65To74": 471,
+    "over74": 232
+  },
+  {
+    "minIncome": 13905,
+    "maxIncome": 13955,
+    "under65": 1198,
+    "from65To74": 480,
+    "over74": 241
+  },
+  {
+    "minIncome": 13956,
+    "maxIncome": 14006,
+    "under65": 1207,
+    "from65To74": 489,
+    "over74": 250
+  },
+  {
+    "minIncome": 14007,
+    "maxIncome": 14057,
+    "under65": 1216,
+    "from65To74": 498,
+    "over74": 259
+  },
+  {
+    "minIncome": 14058,
+    "maxIncome": 14108,
+    "under65": 1225,
+    "from65To74": 508,
+    "over74": 268
+  },
+  {
+    "minIncome": 14109,
+    "maxIncome": 14159,
+    "under65": 1235,
+    "from65To74": 517,
+    "over74": 278
+  },
+  {
+    "minIncome": 14160,
+    "maxIncome": 14210,
+    "under65": 1244,
+    "from65To74": 526,
+    "over74": 287
+  },
+  {
+    "minIncome": 14211,
+    "maxIncome": 14261,
+    "under65": 1253,
+    "from65To74": 535,
+    "over74": 296
+  },
+  {
+    "minIncome": 14262,
+    "maxIncome": 14312,
+    "under65": 1262,
+    "from65To74": 544,
+    "over74": 305
+  },
+  {
+    "minIncome": 14313,
+    "maxIncome": 14363,
+    "under65": 1271,
+    "from65To74": 554,
+    "over74": 314
+  },
+  {
+    "minIncome": 14364,
+    "maxIncome": 14414,
+    "under65": 1281,
+    "from65To74": 563,
+    "over74": 324
+  },
+  {
+    "minIncome": 14415,
+    "maxIncome": 14465,
+    "under65": 1290,
+    "from65To74": 572,
+    "over74": 333
+  },
+  {
+    "minIncome": 14466,
+    "maxIncome": 14516,
+    "under65": 1299,
+    "from65To74": 581,
+    "over74": 342
+  },
+  {
+    "minIncome": 14517,
+    "maxIncome": 14567,
+    "under65": 1308,
+    "from65To74": 590,
+    "over74": 351
+  },
+  {
+    "minIncome": 14568,
+    "maxIncome": 14618,
+    "under65": 1317,
+    "from65To74": 599,
+    "over74": 360
+  },
+  {
+    "minIncome": 14619,
+    "maxIncome": 14669,
+    "under65": 1326,
+    "from65To74": 609,
+    "over74": 369
+  },
+  {
+    "minIncome": 14670,
+    "maxIncome": 14720,
+    "under65": 1336,
+    "from65To74": 618,
+    "over74": 379
+  },
+  {
+    "minIncome": 14721,
+    "maxIncome": 14771,
+    "under65": 1345,
+    "from65To74": 627,
+    "over74": 388
+  },
+  {
+    "minIncome": 14772,
+    "maxIncome": 14822,
+    "under65": 1354,
+    "from65To74": 636,
+    "over74": 397
+  },
+  {
+    "minIncome": 14823,
+    "maxIncome": 14873,
+    "under65": 1363,
+    "from65To74": 645,
+    "over74": 406
+  },
+  {
+    "minIncome": 14874,
+    "maxIncome": 14924,
+    "under65": 1372,
+    "from65To74": 655,
+    "over74": 415
+  },
+  {
+    "minIncome": 14925,
+    "maxIncome": 14975,
+    "under65": 1381,
+    "from65To74": 664,
+    "over74": 424
+  },
+  {
+    "minIncome": 14976,
+    "maxIncome": 15026,
+    "under65": 1391,
+    "from65To74": 673,
+    "over74": 434
+  },
+  {
+    "minIncome": 15027,
+    "maxIncome": 15077,
+    "under65": 1400,
+    "from65To74": 682,
+    "over74": 443
+  },
+  {
+    "minIncome": 15078,
+    "maxIncome": 15128,
+    "under65": 1409,
+    "from65To74": 691,
+    "over74": 452
+  },
+  {
+    "minIncome": 15129,
+    "maxIncome": 15179,
+    "under65": 1418,
+    "from65To74": 700,
+    "over74": 461
+  },
+  {
+    "minIncome": 15180,
+    "maxIncome": 15230,
+    "under65": 1427,
+    "from65To74": 710,
+    "over74": 470
+  },
+  {
+    "minIncome": 15231,
+    "maxIncome": 15281,
+    "under65": 1437,
+    "from65To74": 719,
+    "over74": 480
+  },
+  {
+    "minIncome": 15282,
+    "maxIncome": 15332,
+    "under65": 1446,
+    "from65To74": 728,
+    "over74": 489
+  },
+  {
+    "minIncome": 15333,
+    "maxIncome": 15383,
+    "under65": 1455,
+    "from65To74": 737,
+    "over74": 498
+  },
+  {
+    "minIncome": 15384,
+    "maxIncome": 15434,
+    "under65": 1464,
+    "from65To74": 746,
+    "over74": 507
+  },
+  {
+    "minIncome": 15435,
+    "maxIncome": 15485,
+    "under65": 1473,
+    "from65To74": 756,
+    "over74": 516
+  },
+  {
+    "minIncome": 15486,
+    "maxIncome": 15536,
+    "under65": 1482,
+    "from65To74": 765,
+    "over74": 525
+  },
+  {
+    "minIncome": 15537,
+    "maxIncome": 15587,
+    "under65": 1492,
+    "from65To74": 774,
+    "over74": 535
+  },
+  {
+    "minIncome": 15588,
+    "maxIncome": 15638,
+    "under65": 1501,
+    "from65To74": 783,
+    "over74": 544
+  },
+  {
+    "minIncome": 15639,
+    "maxIncome": 15689,
+    "under65": 1510,
+    "from65To74": 792,
+    "over74": 553
+  },
+  {
+    "minIncome": 15690,
+    "maxIncome": 15740,
+    "under65": 1519,
+    "from65To74": 801,
+    "over74": 562
+  },
+  {
+    "minIncome": 15741,
+    "maxIncome": 15791,
+    "under65": 1528,
+    "from65To74": 811,
+    "over74": 571
+  },
+  {
+    "minIncome": 15792,
+    "maxIncome": 15842,
+    "under65": 1538,
+    "from65To74": 820,
+    "over74": 581
+  },
+  {
+    "minIncome": 15843,
+    "maxIncome": 15893,
+    "under65": 1547,
+    "from65To74": 829,
+    "over74": 590
+  },
+  {
+    "minIncome": 15894,
+    "maxIncome": 15944,
+    "under65": 1556,
+    "from65To74": 838,
+    "over74": 599
+  },
+  {
+    "minIncome": 15945,
+    "maxIncome": 15995,
+    "under65": 1565,
+    "from65To74": 847,
+    "over74": 608
+  },
+  {
+    "minIncome": 15996,
+    "maxIncome": 16046,
+    "under65": 1574,
+    "from65To74": 857,
+    "over74": 617
+  },
+  {
+    "minIncome": 16047,
+    "maxIncome": 16097,
+    "under65": 1583,
+    "from65To74": 866,
+    "over74": 626
+  },
+  {
+    "minIncome": 16098,
+    "maxIncome": 16148,
+    "under65": 1593,
+    "from65To74": 875,
+    "over74": 636
+  },
+  {
+    "minIncome": 16149,
+    "maxIncome": 16199,
+    "under65": 1602,
+    "from65To74": 884,
+    "over74": 645
+  },
+  {
+    "minIncome": 16200,
+    "maxIncome": 16250,
+    "under65": 1611,
+    "from65To74": 893,
+    "over74": 654
+  },
+  {
+    "minIncome": 16251,
+    "maxIncome": 16301,
+    "under65": 1620,
+    "from65To74": 902,
+    "over74": 663
+  },
+  {
+    "minIncome": 16302,
+    "maxIncome": 16352,
+    "under65": 1629,
+    "from65To74": 912,
+    "over74": 672
+  },
+  {
+    "minIncome": 16353,
+    "maxIncome": 16403,
+    "under65": 1639,
+    "from65To74": 921,
+    "over74": 682
+  },
+  {
+    "minIncome": 16404,
+    "maxIncome": 16454,
+    "under65": 1648,
+    "from65To74": 930,
+    "over74": 691
+  },
+  {
+    "minIncome": 16455,
+    "maxIncome": 16505,
+    "under65": 1657,
+    "from65To74": 939,
+    "over74": 700
+  },
+  {
+    "minIncome": 16506,
+    "maxIncome": 16556,
+    "under65": 1666,
+    "from65To74": 948,
+    "over74": 709
+  },
+  {
+    "minIncome": 16557,
+    "maxIncome": 16607,
+    "under65": 1675,
+    "from65To74": 957,
+    "over74": 718
+  },
+  {
+    "minIncome": 16608,
+    "maxIncome": 16658,
+    "under65": 1684,
+    "from65To74": 967,
+    "over74": 727
+  },
+  {
+    "minIncome": 16659,
+    "maxIncome": 16709,
+    "under65": 1694,
+    "from65To74": 976,
+    "over74": 737
+  },
+  {
+    "minIncome": 16710,
+    "maxIncome": 16760,
+    "under65": 1703,
+    "from65To74": 985,
+    "over74": 746
+  },
+  {
+    "minIncome": 16761,
+    "maxIncome": 16811,
+    "under65": 1712,
+    "from65To74": 994,
+    "over74": 755
+  },
+  {
+    "minIncome": 16812,
+    "maxIncome": 16862,
+    "under65": 1721,
+    "from65To74": 1003,
+    "over74": 764
+  },
+  {
+    "minIncome": 16863,
+    "maxIncome": 16913,
+    "under65": 1730,
+    "from65To74": 1013,
+    "over74": 773
+  },
+  {
+    "minIncome": 16914,
+    "maxIncome": 16964,
+    "under65": 1740,
+    "from65To74": 1022,
+    "over74": 783
+  },
+  {
+    "minIncome": 16965,
+    "maxIncome": 17015,
+    "under65": 1749,
+    "from65To74": 1031,
+    "over74": 792
+  },
+  {
+    "minIncome": 17016,
+    "maxIncome": 17066,
+    "under65": 1758,
+    "from65To74": 1040,
+    "over74": 801
+  },
+  {
+    "minIncome": 17067,
+    "maxIncome": 17117,
+    "under65": 1767,
+    "from65To74": 1049,
+    "over74": 810
+  },
+  {
+    "minIncome": 17118,
+    "maxIncome": 17168,
+    "under65": 1776,
+    "from65To74": 1058,
+    "over74": 819
+  },
+  {
+    "minIncome": 17169,
+    "maxIncome": 17219,
+    "under65": 1785,
+    "from65To74": 1068,
+    "over74": 828
+  },
+  {
+    "minIncome": 17220,
+    "maxIncome": 17270,
+    "under65": 1795,
+    "from65To74": 1077,
+    "over74": 838
+  },
+  {
+    "minIncome": 17271,
+    "maxIncome": 17321,
+    "under65": 1804,
+    "from65To74": 1086,
+    "over74": 847
+  },
+  {
+    "minIncome": 17322,
+    "maxIncome": 17372,
+    "under65": 1813,
+    "from65To74": 1095,
+    "over74": 856
+  },
+  {
+    "minIncome": 17373,
+    "maxIncome": 17423,
+    "under65": 1822,
+    "from65To74": 1104,
+    "over74": 865
+  },
+  {
+    "minIncome": 17424,
+    "maxIncome": 17474,
+    "under65": 1831,
+    "from65To74": 1114,
+    "over74": 874
+  },
+  {
+    "minIncome": 17475,
+    "maxIncome": 17525,
+    "under65": 1840,
+    "from65To74": 1123,
+    "over74": 883
+  },
+  {
+    "minIncome": 17526,
+    "maxIncome": 17576,
+    "under65": 1850,
+    "from65To74": 1132,
+    "over74": 893
+  },
+  {
+    "minIncome": 17577,
+    "maxIncome": 17627,
+    "under65": 1859,
+    "from65To74": 1141,
+    "over74": 902
+  },
+  {
+    "minIncome": 17628,
+    "maxIncome": 17678,
+    "under65": 1868,
+    "from65To74": 1150,
+    "over74": 911
+  },
+  {
+    "minIncome": 17679,
+    "maxIncome": 17729,
+    "under65": 1877,
+    "from65To74": 1159,
+    "over74": 920
+  },
+  {
+    "minIncome": 17730,
+    "maxIncome": 17780,
+    "under65": 1886,
+    "from65To74": 1169,
+    "over74": 929
+  },
+  {
+    "minIncome": 17781,
+    "maxIncome": 17831,
+    "under65": 1896,
+    "from65To74": 1178,
+    "over74": 939
+  },
+  {
+    "minIncome": 17832,
+    "maxIncome": 17882,
+    "under65": 1905,
+    "from65To74": 1187,
+    "over74": 948
+  },
+  {
+    "minIncome": 17883,
+    "maxIncome": 17933,
+    "under65": 1914,
+    "from65To74": 1196,
+    "over74": 957
+  },
+  {
+    "minIncome": 17934,
+    "maxIncome": 17984,
+    "under65": 1923,
+    "from65To74": 1205,
+    "over74": 966
+  },
+  {
+    "minIncome": 17985,
+    "maxIncome": 18035,
+    "under65": 1932,
+    "from65To74": 1215,
+    "over74": 975
+  },
+  {
+    "minIncome": 18036,
+    "maxIncome": 18086,
+    "under65": 1945,
+    "from65To74": 1227,
+    "over74": 988
+  },
+  {
+    "minIncome": 18087,
+    "maxIncome": 18137,
+    "under65": 1958,
+    "from65To74": 1241,
+    "over74": 1001
+  },
+  {
+    "minIncome": 18138,
+    "maxIncome": 18188,
+    "under65": 1972,
+    "from65To74": 1254,
+    "over74": 1015
+  },
+  {
+    "minIncome": 18189,
+    "maxIncome": 18239,
+    "under65": 1985,
+    "from65To74": 1267,
+    "over74": 1028
+  },
+  {
+    "minIncome": 18240,
+    "maxIncome": 18290,
+    "under65": 1998,
+    "from65To74": 1280,
+    "over74": 1041
+  },
+  {
+    "minIncome": 18291,
+    "maxIncome": 18341,
+    "under65": 2011,
+    "from65To74": 1294,
+    "over74": 1054
+  },
+  {
+    "minIncome": 18342,
+    "maxIncome": 18392,
+    "under65": 2025,
+    "from65To74": 1307,
+    "over74": 1068
+  },
+  {
+    "minIncome": 18393,
+    "maxIncome": 18443,
+    "under65": 2038,
+    "from65To74": 1320,
+    "over74": 1081
+  },
+  {
+    "minIncome": 18444,
+    "maxIncome": 18494,
+    "under65": 2051,
+    "from65To74": 1333,
+    "over74": 1094
+  },
+  {
+    "minIncome": 18495,
+    "maxIncome": 18545,
+    "under65": 2064,
+    "from65To74": 1347,
+    "over74": 1107
+  },
+  {
+    "minIncome": 18546,
+    "maxIncome": 18596,
+    "under65": 2078,
+    "from65To74": 1360,
+    "over74": 1121
+  },
+  {
+    "minIncome": 18597,
+    "maxIncome": 18647,
+    "under65": 2091,
+    "from65To74": 1373,
+    "over74": 1134
+  },
+  {
+    "minIncome": 18648,
+    "maxIncome": 18698,
+    "under65": 2104,
+    "from65To74": 1386,
+    "over74": 1147
+  },
+  {
+    "minIncome": 18699,
+    "maxIncome": 18749,
+    "under65": 2117,
+    "from65To74": 1400,
+    "over74": 1160
+  },
+  {
+    "minIncome": 18750,
+    "maxIncome": 18800,
+    "under65": 2131,
+    "from65To74": 1413,
+    "over74": 1174
+  },
+  {
+    "minIncome": 18801,
+    "maxIncome": 18851,
+    "under65": 2144,
+    "from65To74": 1426,
+    "over74": 1187
+  },
+  {
+    "minIncome": 18852,
+    "maxIncome": 18902,
+    "under65": 2157,
+    "from65To74": 1439,
+    "over74": 1200
+  },
+  {
+    "minIncome": 18903,
+    "maxIncome": 18953,
+    "under65": 2170,
+    "from65To74": 1453,
+    "over74": 1213
+  },
+  {
+    "minIncome": 18954,
+    "maxIncome": 19004,
+    "under65": 2184,
+    "from65To74": 1466,
+    "over74": 1227
+  },
+  {
+    "minIncome": 19005,
+    "maxIncome": 19055,
+    "under65": 2197,
+    "from65To74": 1479,
+    "over74": 1240
+  },
+  {
+    "minIncome": 19056,
+    "maxIncome": 19106,
+    "under65": 2210,
+    "from65To74": 1492,
+    "over74": 1253
+  },
+  {
+    "minIncome": 19107,
+    "maxIncome": 19157,
+    "under65": 2223,
+    "from65To74": 1506,
+    "over74": 1266
+  },
+  {
+    "minIncome": 19158,
+    "maxIncome": 19208,
+    "under65": 2237,
+    "from65To74": 1519,
+    "over74": 1280
+  },
+  {
+    "minIncome": 19209,
+    "maxIncome": 19259,
+    "under65": 2250,
+    "from65To74": 1532,
+    "over74": 1293
+  },
+  {
+    "minIncome": 19260,
+    "maxIncome": 19310,
+    "under65": 2263,
+    "from65To74": 1545,
+    "over74": 1306
+  },
+  {
+    "minIncome": 19311,
+    "maxIncome": 19361,
+    "under65": 2277,
+    "from65To74": 1559,
+    "over74": 1320
+  },
+  {
+    "minIncome": 19362,
+    "maxIncome": 19412,
+    "under65": 2290,
+    "from65To74": 1572,
+    "over74": 1333
+  },
+  {
+    "minIncome": 19413,
+    "maxIncome": 19463,
+    "under65": 2303,
+    "from65To74": 1585,
+    "over74": 1346
+  },
+  {
+    "minIncome": 19464,
+    "maxIncome": 19514,
+    "under65": 2316,
+    "from65To74": 1599,
+    "over74": 1359
+  },
+  {
+    "minIncome": 19515,
+    "maxIncome": 19565,
+    "under65": 2330,
+    "from65To74": 1612,
+    "over74": 1373
+  },
+  {
+    "minIncome": 19566,
+    "maxIncome": 19616,
+    "under65": 2343,
+    "from65To74": 1625,
+    "over74": 1386
+  },
+  {
+    "minIncome": 19617,
+    "maxIncome": 19667,
+    "under65": 2356,
+    "from65To74": 1638,
+    "over74": 1399
+  },
+  {
+    "minIncome": 19668,
+    "maxIncome": 19718,
+    "under65": 2369,
+    "from65To74": 1652,
+    "over74": 1412
+  },
+  {
+    "minIncome": 19719,
+    "maxIncome": 19769,
+    "under65": 2383,
+    "from65To74": 1665,
+    "over74": 1426
+  },
+  {
+    "minIncome": 19770,
+    "maxIncome": 19820,
+    "under65": 2396,
+    "from65To74": 1678,
+    "over74": 1439
+  },
+  {
+    "minIncome": 19821,
+    "maxIncome": 19871,
+    "under65": 2409,
+    "from65To74": 1691,
+    "over74": 1452
+  },
+  {
+    "minIncome": 19872,
+    "maxIncome": 19922,
+    "under65": 2422,
+    "from65To74": 1705,
+    "over74": 1465
+  },
+  {
+    "minIncome": 19923,
+    "maxIncome": 19973,
+    "under65": 2436,
+    "from65To74": 1718,
+    "over74": 1479
+  },
+  {
+    "minIncome": 19974,
+    "maxIncome": 20024,
+    "under65": 2449,
+    "from65To74": 1731,
+    "over74": 1492
+  },
+  {
+    "minIncome": 20025,
+    "maxIncome": 20075,
+    "under65": 2462,
+    "from65To74": 1744,
+    "over74": 1505
+  },
+  {
+    "minIncome": 20076,
+    "maxIncome": 20126,
+    "under65": 2475,
+    "from65To74": 1758,
+    "over74": 1518
+  },
+  {
+    "minIncome": 20127,
+    "maxIncome": 20177,
+    "under65": 2489,
+    "from65To74": 1771,
+    "over74": 1532
+  },
+  {
+    "minIncome": 20178,
+    "maxIncome": 20228,
+    "under65": 2502,
+    "from65To74": 1784,
+    "over74": 1545
+  },
+  {
+    "minIncome": 20229,
+    "maxIncome": 20279,
+    "under65": 2515,
+    "from65To74": 1797,
+    "over74": 1558
+  },
+  {
+    "minIncome": 20280,
+    "maxIncome": 20330,
+    "under65": 2528,
+    "from65To74": 1811,
+    "over74": 1571
+  },
+  {
+    "minIncome": 20331,
+    "maxIncome": 20381,
+    "under65": 2542,
+    "from65To74": 1824,
+    "over74": 1585
+  },
+  {
+    "minIncome": 20382,
+    "maxIncome": 20432,
+    "under65": 2555,
+    "from65To74": 1837,
+    "over74": 1598
+  },
+  {
+    "minIncome": 20433,
+    "maxIncome": 20483,
+    "under65": 2568,
+    "from65To74": 1850,
+    "over74": 1611
+  },
+  {
+    "minIncome": 20484,
+    "maxIncome": 20534,
+    "under65": 2581,
+    "from65To74": 1864,
+    "over74": 1624
+  },
+  {
+    "minIncome": 20535,
+    "maxIncome": 20585,
+    "under65": 2595,
+    "from65To74": 1877,
+    "over74": 1638
+  },
+  {
+    "minIncome": 20586,
+    "maxIncome": 20636,
+    "under65": 2608,
+    "from65To74": 1890,
+    "over74": 1651
+  },
+  {
+    "minIncome": 20637,
+    "maxIncome": 20687,
+    "under65": 2621,
+    "from65To74": 1904,
+    "over74": 1664
+  },
+  {
+    "minIncome": 20688,
+    "maxIncome": 20738,
+    "under65": 2635,
+    "from65To74": 1917,
+    "over74": 1678
+  },
+  {
+    "minIncome": 20739,
+    "maxIncome": 20789,
+    "under65": 2648,
+    "from65To74": 1930,
+    "over74": 1691
+  },
+  {
+    "minIncome": 20790,
+    "maxIncome": 20840,
+    "under65": 2661,
+    "from65To74": 1943,
+    "over74": 1704
+  },
+  {
+    "minIncome": 20841,
+    "maxIncome": 20891,
+    "under65": 2674,
+    "from65To74": 1957,
+    "over74": 1717
+  },
+  {
+    "minIncome": 20892,
+    "maxIncome": 20942,
+    "under65": 2688,
+    "from65To74": 1970,
+    "over74": 1731
+  },
+  {
+    "minIncome": 20943,
+    "maxIncome": 20993,
+    "under65": 2701,
+    "from65To74": 1983,
+    "over74": 1744
+  },
+  {
+    "minIncome": 20994,
+    "maxIncome": 21044,
+    "under65": 2714,
+    "from65To74": 1996,
+    "over74": 1757
+  },
+  {
+    "minIncome": 21045,
+    "maxIncome": 21095,
+    "under65": 2727,
+    "from65To74": 2010,
+    "over74": 1770
+  },
+  {
+    "minIncome": 21096,
+    "maxIncome": 21146,
+    "under65": 2741,
+    "from65To74": 2023,
+    "over74": 1784
+  },
+  {
+    "minIncome": 21147,
+    "maxIncome": 21197,
+    "under65": 2754,
+    "from65To74": 2036,
+    "over74": 1797
+  },
+  {
+    "minIncome": 21198,
+    "maxIncome": 21248,
+    "under65": 2767,
+    "from65To74": 2049,
+    "over74": 1810
+  },
+  {
+    "minIncome": 21249,
+    "maxIncome": 21299,
+    "under65": 2780,
+    "from65To74": 2063,
+    "over74": 1823
+  },
+  {
+    "minIncome": 21300,
+    "maxIncome": 21350,
+    "under65": 2794,
+    "from65To74": 2076,
+    "over74": 1837
+  },
+  {
+    "minIncome": 21351,
+    "maxIncome": 21401,
+    "under65": 2807,
+    "from65To74": 2089,
+    "over74": 1850
+  },
+  {
+    "minIncome": 21402,
+    "maxIncome": 21452,
+    "under65": 2820,
+    "from65To74": 2102,
+    "over74": 1863
+  },
+  {
+    "minIncome": 21453,
+    "maxIncome": 21503,
+    "under65": 2833,
+    "from65To74": 2116,
+    "over74": 1876
+  },
+  {
+    "minIncome": 21504,
+    "maxIncome": 21554,
+    "under65": 2847,
+    "from65To74": 2129,
+    "over74": 1890
+  },
+  {
+    "minIncome": 21555,
+    "maxIncome": 21605,
+    "under65": 2860,
+    "from65To74": 2142,
+    "over74": 1903
+  },
+  {
+    "minIncome": 21606,
+    "maxIncome": 21656,
+    "under65": 2873,
+    "from65To74": 2155,
+    "over74": 1916
+  },
+  {
+    "minIncome": 21657,
+    "maxIncome": 21707,
+    "under65": 2886,
+    "from65To74": 2169,
+    "over74": 1929
+  },
+  {
+    "minIncome": 21708,
+    "maxIncome": 21758,
+    "under65": 2900,
+    "from65To74": 2182,
+    "over74": 1943
+  },
+  {
+    "minIncome": 21759,
+    "maxIncome": 21809,
+    "under65": 2913,
+    "from65To74": 2195,
+    "over74": 1956
+  },
+  {
+    "minIncome": 21810,
+    "maxIncome": 21860,
+    "under65": 2926,
+    "from65To74": 2208,
+    "over74": 1969
+  },
+  {
+    "minIncome": 21861,
+    "maxIncome": 21911,
+    "under65": 2940,
+    "from65To74": 2222,
+    "over74": 1983
+  },
+  {
+    "minIncome": 21912,
+    "maxIncome": 21962,
+    "under65": 2953,
+    "from65To74": 2235,
+    "over74": 1996
+  },
+  {
+    "minIncome": 21963,
+    "maxIncome": 22013,
+    "under65": 2966,
+    "from65To74": 2248,
+    "over74": 2009
+  },
+  {
+    "minIncome": 22014,
+    "maxIncome": 22064,
+    "under65": 2979,
+    "from65To74": 2262,
+    "over74": 2022
+  },
+  {
+    "minIncome": 22065,
+    "maxIncome": 22115,
+    "under65": 2993,
+    "from65To74": 2275,
+    "over74": 2036
+  },
+  {
+    "minIncome": 22116,
+    "maxIncome": 22166,
+    "under65": 3006,
+    "from65To74": 2288,
+    "over74": 2049
+  },
+  {
+    "minIncome": 22167,
+    "maxIncome": 22217,
+    "under65": 3019,
+    "from65To74": 2301,
+    "over74": 2062
+  },
+  {
+    "minIncome": 22218,
+    "maxIncome": 22268,
+    "under65": 3032,
+    "from65To74": 2315,
+    "over74": 2075
+  },
+  {
+    "minIncome": 22269,
+    "maxIncome": 22319,
+    "under65": 3046,
+    "from65To74": 2328,
+    "over74": 2089
+  },
+  {
+    "minIncome": 22320,
+    "maxIncome": 22370,
+    "under65": 3059,
+    "from65To74": 2341,
+    "over74": 2102
+  },
+  {
+    "minIncome": 22371,
+    "maxIncome": 22421,
+    "under65": 3072,
+    "from65To74": 2354,
+    "over74": 2115
+  },
+  {
+    "minIncome": 22422,
+    "maxIncome": 22472,
+    "under65": 3085,
+    "from65To74": 2368,
+    "over74": 2128
+  },
+  {
+    "minIncome": 22473,
+    "maxIncome": 22523,
+    "under65": 3099,
+    "from65To74": 2381,
+    "over74": 2142
+  },
+  {
+    "minIncome": 22524,
+    "maxIncome": 22574,
+    "under65": 3112,
+    "from65To74": 2394,
+    "over74": 2155
+  },
+  {
+    "minIncome": 22575,
+    "maxIncome": 22625,
+    "under65": 3125,
+    "from65To74": 2407,
+    "over74": 2168
+  },
+  {
+    "minIncome": 22626,
+    "maxIncome": 22676,
+    "under65": 3138,
+    "from65To74": 2421,
+    "over74": 2181
+  },
+  {
+    "minIncome": 22677,
+    "maxIncome": 22727,
+    "under65": 3152,
+    "from65To74": 2434,
+    "over74": 2195
+  },
+  {
+    "minIncome": 22728,
+    "maxIncome": 22778,
+    "under65": 3165,
+    "from65To74": 2447,
+    "over74": 2208
+  },
+  {
+    "minIncome": 22779,
+    "maxIncome": 22829,
+    "under65": 3178,
+    "from65To74": 2460,
+    "over74": 2221
+  },
+  {
+    "minIncome": 22830,
+    "maxIncome": 22880,
+    "under65": 3191,
+    "from65To74": 2474,
+    "over74": 2234
+  },
+  {
+    "minIncome": 22881,
+    "maxIncome": 22931,
+    "under65": 3205,
+    "from65To74": 2487,
+    "over74": 2248
+  },
+  {
+    "minIncome": 22932,
+    "maxIncome": 22982,
+    "under65": 3218,
+    "from65To74": 2500,
+    "over74": 2261
+  },
+  {
+    "minIncome": 22983,
+    "maxIncome": 23033,
+    "under65": 3231,
+    "from65To74": 2513,
+    "over74": 2274
+  },
+  {
+    "minIncome": 23034,
+    "maxIncome": 23084,
+    "under65": 3244,
+    "from65To74": 2527,
+    "over74": 2287
+  },
+  {
+    "minIncome": 23085,
+    "maxIncome": 23135,
+    "under65": 3258,
+    "from65To74": 2540,
+    "over74": 2301
+  },
+  {
+    "minIncome": 23136,
+    "maxIncome": 23186,
+    "under65": 3271,
+    "from65To74": 2553,
+    "over74": 2314
+  },
+  {
+    "minIncome": 23187,
+    "maxIncome": 23237,
+    "under65": 3284,
+    "from65To74": 2567,
+    "over74": 2327
+  },
+  {
+    "minIncome": 23238,
+    "maxIncome": 23288,
+    "under65": 3298,
+    "from65To74": 2580,
+    "over74": 2341
+  },
+  {
+    "minIncome": 23289,
+    "maxIncome": 23339,
+    "under65": 3311,
+    "from65To74": 2593,
+    "over74": 2354
+  },
+  {
+    "minIncome": 23340,
+    "maxIncome": 23390,
+    "under65": 3324,
+    "from65To74": 2606,
+    "over74": 2367
+  },
+  {
+    "minIncome": 23391,
+    "maxIncome": 23441,
+    "under65": 3337,
+    "from65To74": 2620,
+    "over74": 2380
+  },
+  {
+    "minIncome": 23442,
+    "maxIncome": 23492,
+    "under65": 3351,
+    "from65To74": 2633,
+    "over74": 2394
+  },
+  {
+    "minIncome": 23493,
+    "maxIncome": 23543,
+    "under65": 3364,
+    "from65To74": 2646,
+    "over74": 2407
+  },
+  {
+    "minIncome": 23544,
+    "maxIncome": 23594,
+    "under65": 3377,
+    "from65To74": 2659,
+    "over74": 2420
+  },
+  {
+    "minIncome": 23595,
+    "maxIncome": 23645,
+    "under65": 3390,
+    "from65To74": 2673,
+    "over74": 2433
+  },
+  {
+    "minIncome": 23646,
+    "maxIncome": 23696,
+    "under65": 3404,
+    "from65To74": 2686,
+    "over74": 2447
+  },
+  {
+    "minIncome": 23697,
+    "maxIncome": 23747,
+    "under65": 3417,
+    "from65To74": 2699,
+    "over74": 2460
+  },
+  {
+    "minIncome": 23748,
+    "maxIncome": 23798,
+    "under65": 3430,
+    "from65To74": 2712,
+    "over74": 2473
+  },
+  {
+    "minIncome": 23799,
+    "maxIncome": 23849,
+    "under65": 3443,
+    "from65To74": 2726,
+    "over74": 2486
+  },
+  {
+    "minIncome": 23850,
+    "maxIncome": 23900,
+    "under65": 3457,
+    "from65To74": 2739,
+    "over74": 2500
+  },
+  {
+    "minIncome": 23901,
+    "maxIncome": 23951,
+    "under65": 3470,
+    "from65To74": 2752,
+    "over74": 2513
+  },
+  {
+    "minIncome": 23952,
+    "maxIncome": 24002,
+    "under65": 3483,
+    "from65To74": 2765,
+    "over74": 2526
+  },
+  {
+    "minIncome": 24003,
+    "maxIncome": 24053,
+    "under65": 3496,
+    "from65To74": 2779,
+    "over74": 2539
+  },
+  {
+    "minIncome": 24054,
+    "maxIncome": 24104,
+    "under65": 3510,
+    "from65To74": 2792,
+    "over74": 2553
+  },
+  {
+    "minIncome": 24105,
+    "maxIncome": 24155,
+    "under65": 3523,
+    "from65To74": 2805,
+    "over74": 2566
+  },
+  {
+    "minIncome": 24156,
+    "maxIncome": 24206,
+    "under65": 3536,
+    "from65To74": 2818,
+    "over74": 2579
+  },
+  {
+    "minIncome": 24207,
+    "maxIncome": 24257,
+    "under65": 3549,
+    "from65To74": 2832,
+    "over74": 2592
+  },
+  {
+    "minIncome": 24258,
+    "maxIncome": 24308,
+    "under65": 3563,
+    "from65To74": 2845,
+    "over74": 2606
+  },
+  {
+    "minIncome": 24309,
+    "maxIncome": 24359,
+    "under65": 3576,
+    "from65To74": 2858,
+    "over74": 2619
+  },
+  {
+    "minIncome": 24360,
+    "maxIncome": 24410,
+    "under65": 3589,
+    "from65To74": 2871,
+    "over74": 2632
+  },
+  {
+    "minIncome": 24411,
+    "maxIncome": 24461,
+    "under65": 3603,
+    "from65To74": 2885,
+    "over74": 2646
+  },
+  {
+    "minIncome": 24462,
+    "maxIncome": 24512,
+    "under65": 3616,
+    "from65To74": 2898,
+    "over74": 2659
+  },
+  {
+    "minIncome": 24513,
+    "maxIncome": 24563,
+    "under65": 3629,
+    "from65To74": 2911,
+    "over74": 2672
+  },
+  {
+    "minIncome": 24564,
+    "maxIncome": 24614,
+    "under65": 3642,
+    "from65To74": 2925,
+    "over74": 2685
+  },
+  {
+    "minIncome": 24615,
+    "maxIncome": 24665,
+    "under65": 3656,
+    "from65To74": 2938,
+    "over74": 2699
+  },
+  {
+    "minIncome": 24666,
+    "maxIncome": 24716,
+    "under65": 3669,
+    "from65To74": 2951,
+    "over74": 2712
+  },
+  {
+    "minIncome": 24717,
+    "maxIncome": 24767,
+    "under65": 3682,
+    "from65To74": 2964,
+    "over74": 2725
+  },
+  {
+    "minIncome": 24768,
+    "maxIncome": 24818,
+    "under65": 3695,
+    "from65To74": 2978,
+    "over74": 2738
+  },
+  {
+    "minIncome": 24819,
+    "maxIncome": 24869,
+    "under65": 3709,
+    "from65To74": 2991,
+    "over74": 2752
+  },
+  {
+    "minIncome": 24870,
+    "maxIncome": 24920,
+    "under65": 3722,
+    "from65To74": 3004,
+    "over74": 2765
+  },
+  {
+    "minIncome": 24921,
+    "maxIncome": 24971,
+    "under65": 3735,
+    "from65To74": 3017,
+    "over74": 2778
+  },
+  {
+    "minIncome": 24972,
+    "maxIncome": 25022,
+    "under65": 3748,
+    "from65To74": 3031,
+    "over74": 2791
+  },
+  {
+    "minIncome": 25023,
+    "maxIncome": 25073,
+    "under65": 3762,
+    "from65To74": 3044,
+    "over74": 2805
+  },
+  {
+    "minIncome": 25074,
+    "maxIncome": 25124,
+    "under65": 3775,
+    "from65To74": 3057,
+    "over74": 2818
+  },
+  {
+    "minIncome": 25125,
+    "maxIncome": 25175,
+    "under65": 3788,
+    "from65To74": 3070,
+    "over74": 2831
+  },
+  {
+    "minIncome": 25176,
+    "maxIncome": 25226,
+    "under65": 3801,
+    "from65To74": 3084,
+    "over74": 2844
+  },
+  {
+    "minIncome": 25227,
+    "maxIncome": 25277,
+    "under65": 3815,
+    "from65To74": 3097,
+    "over74": 2858
+  },
+  {
+    "minIncome": 25278,
+    "maxIncome": 25328,
+    "under65": 3828,
+    "from65To74": 3110,
+    "over74": 2871
+  },
+  {
+    "minIncome": 25329,
+    "maxIncome": 25379,
+    "under65": 3841,
+    "from65To74": 3123,
+    "over74": 2884
+  },
+  {
+    "minIncome": 25380,
+    "maxIncome": 25430,
+    "under65": 3854,
+    "from65To74": 3137,
+    "over74": 2897
+  },
+  {
+    "minIncome": 25431,
+    "maxIncome": 25481,
+    "under65": 3868,
+    "from65To74": 3150,
+    "over74": 2911
+  },
+  {
+    "minIncome": 25482,
+    "maxIncome": 25532,
+    "under65": 3881,
+    "from65To74": 3163,
+    "over74": 2924
+  },
+  {
+    "minIncome": 25533,
+    "maxIncome": 25583,
+    "under65": 3894,
+    "from65To74": 3176,
+    "over74": 2937
+  },
+  {
+    "minIncome": 25584,
+    "maxIncome": 25634,
+    "under65": 3907,
+    "from65To74": 3190,
+    "over74": 2950
+  },
+  {
+    "minIncome": 25635,
+    "maxIncome": 25685,
+    "under65": 3921,
+    "from65To74": 3203,
+    "over74": 2964
+  },
+  {
+    "minIncome": 25686,
+    "maxIncome": 25736,
+    "under65": 3934,
+    "from65To74": 3216,
+    "over74": 2977
+  },
+  {
+    "minIncome": 25737,
+    "maxIncome": 25787,
+    "under65": 3947,
+    "from65To74": 3230,
+    "over74": 2990
+  },
+  {
+    "minIncome": 25788,
+    "maxIncome": 25838,
+    "under65": 3961,
+    "from65To74": 3243,
+    "over74": 3004
+  },
+  {
+    "minIncome": 25839,
+    "maxIncome": 25889,
+    "under65": 3974,
+    "from65To74": 3256,
+    "over74": 3017
+  },
+  {
+    "minIncome": 25890,
+    "maxIncome": 25940,
+    "under65": 3987,
+    "from65To74": 3269,
+    "over74": 3030
+  },
+  {
+    "minIncome": 25941,
+    "maxIncome": 25991,
+    "under65": 4000,
+    "from65To74": 3283,
+    "over74": 3043
+  },
+  {
+    "minIncome": 25992,
+    "maxIncome": 26042,
+    "under65": 4014,
+    "from65To74": 3296,
+    "over74": 3057
+  },
+  {
+    "minIncome": 26043,
+    "maxIncome": 26093,
+    "under65": 4027,
+    "from65To74": 3309,
+    "over74": 3070
+  },
+  {
+    "minIncome": 26094,
+    "maxIncome": 26144,
+    "under65": 4040,
+    "from65To74": 3322,
+    "over74": 3083
+  },
+  {
+    "minIncome": 26145,
+    "maxIncome": 26195,
+    "under65": 4053,
+    "from65To74": 3336,
+    "over74": 3096
+  },
+  {
+    "minIncome": 26196,
+    "maxIncome": 26246,
+    "under65": 4067,
+    "from65To74": 3349,
+    "over74": 3110
+  },
+  {
+    "minIncome": 26247,
+    "maxIncome": 26297,
+    "under65": 4080,
+    "from65To74": 3362,
+    "over74": 3123
+  },
+  {
+    "minIncome": 26298,
+    "maxIncome": 26348,
+    "under65": 4093,
+    "from65To74": 3375,
+    "over74": 3136
+  },
+  {
+    "minIncome": 26349,
+    "maxIncome": 26399,
+    "under65": 4106,
+    "from65To74": 3389,
+    "over74": 3149
+  },
+  {
+    "minIncome": 26400,
+    "maxIncome": 26450,
+    "under65": 4120,
+    "from65To74": 3402,
+    "over74": 3163
+  },
+  {
+    "minIncome": 26451,
+    "maxIncome": 26501,
+    "under65": 4133,
+    "from65To74": 3415,
+    "over74": 3176
+  },
+  {
+    "minIncome": 26502,
+    "maxIncome": 26552,
+    "under65": 4146,
+    "from65To74": 3428,
+    "over74": 3189
+  },
+  {
+    "minIncome": 26553,
+    "maxIncome": 26603,
+    "under65": 4159,
+    "from65To74": 3442,
+    "over74": 3202
+  },
+  {
+    "minIncome": 26604,
+    "maxIncome": 26654,
+    "under65": 4173,
+    "from65To74": 3455,
+    "over74": 3216
+  },
+  {
+    "minIncome": 26655,
+    "maxIncome": 26705,
+    "under65": 4186,
+    "from65To74": 3468,
+    "over74": 3229
+  },
+  {
+    "minIncome": 26706,
+    "maxIncome": 26756,
+    "under65": 4199,
+    "from65To74": 3481,
+    "over74": 3242
+  }
+]
