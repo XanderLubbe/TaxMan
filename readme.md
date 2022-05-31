@@ -1,5 +1,3 @@
 # TaxMan
 
-This API was built to make me some moneyy
-
-This API also provides consumers with some cool data!
+API for finding applicable PAYE tax amounts based on monthly salary.
