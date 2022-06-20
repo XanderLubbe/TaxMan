@@ -1,6 +1,8 @@
 package com.xanderlubbe.taxman;
 
+import java.util.ArrayList;
 import java.util.List;
+
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -14,7 +16,7 @@ public class EntryController {
     // Get all entries in the database currently
     @GetMapping("/entries")
     List<Entry> all() {
-        return repository.findAll();
+        return new ArrayList<>(repository.getThings());
     }
 
     // Create a new entry in the database (must use body as JSON)
@@ -36,8 +38,8 @@ public class EntryController {
 
         return repository.findById(id)
                 .map(entry -> {
-                    entry.setName(newEntry.getName());
-                    entry.setRole(newEntry.getRole());
+                    entry.setLowerLimit(newEntry.getLowerLimit());
+                    entry.setUpperLimit(newEntry.getUpperLimit());
                     return repository.save(entry);
                 })
                 .orElseGet(() -> {
