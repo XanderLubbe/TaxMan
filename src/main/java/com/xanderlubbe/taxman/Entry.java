@@ -1,68 +1,36 @@
 package com.xanderlubbe.taxman;
 
+import lombok.AllArgsConstructor;
+import lombok.Builder;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
 import java.util.Objects;
 
 import javax.persistence.Entity;
 import javax.persistence.GeneratedValue;
 import javax.persistence.Id;
+import javax.persistence.Table;
 
 @Entity
+@Table(name = "entry")
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Entry {
-    private @Id @GeneratedValue Long id;
-    private String name;
-    private String role;
+    private @Id @GeneratedValue long id;
+    private int lowerLimit;
+    private int upperLimit;
+    private int tax1;
+    private int tax2;
+    private int tax3;
 
-    Entry() {}
+    Entry(int lowerLimit, int upperLimit, int tax1, int tax2, int tax3) {
 
-    Entry(String name, String role) {
-
-        this.name = name;
-        this.role = role;
-}
-
-    public Long getId() {
-        return this.id;
-    }
-
-    public String getName() {
-        return this.name;
-    }
-
-    public String getRole() {
-        return this.role;
-    }
-
-    public void setId(Long id) {
-        this.id = id;
-    }
-
-    public void setName(String name) {
-        this.name = name;
-    }
-
-    public void setRole(String role) {
-        this.role = role;
-    }
-
-    @Override
-    public boolean equals(Object o) {
-
-        if (this == o)
-            return true;
-        if (!(o instanceof Entry))
-            return false;
-        Entry entry = (Entry) o;
-        return Objects.equals(this.id, entry.id) && Objects.equals(this.name, entry.name)
-                && Objects.equals(this.role, entry.role);
-    }
-
-    @Override
-    public int hashCode() {
-        return Objects.hash(this.id, this.name, this.role);
-    }
-
-    @Override
-    public String toString() {
-        return "Entry{" + "id=" + this.id + ", name='" + this.name + '\'' + ", role='" + this.role + '\'' + '}';
+        this.lowerLimit = lowerLimit;
+        this.upperLimit = upperLimit;
+        this.tax1 = tax1;
+        this.tax2 = tax2;
+        this.tax3 = tax3;
     }
 }
