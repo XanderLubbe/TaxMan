@@ -1,7 +1,6 @@
 package com.xanderlubbe.taxman;
 
 import java.util.List;
-
 import org.springframework.web.bind.annotation.*;
 
 @RestController
@@ -12,29 +11,26 @@ public class EntryController {
         this.repository = repository;
     }
 
-
-    // Aggregate root
-    // tag::get-aggregate-root[]
+    // Get all entries in the database currently
     @GetMapping("/entries")
     List<Entry> all() {
         return repository.findAll();
     }
-    // end::get-aggregate-root[]
 
+    // Create a new entry in the database (must use body as JSON)
     @PostMapping("/entries")
     Entry newEntry(@RequestBody Entry newEntry) {
         return repository.save(newEntry);
     }
 
-    // Single item
-
+    // Get an entry in the database with this id
     @GetMapping("/entries/{id}")
     Entry one(@PathVariable Long id) {
 
         return repository.findById(id)
                 .orElseThrow(() -> new EntryNotFoundException(id));
     }
-
+    // Update an entry in the database with this id
     @PutMapping("/entries/{id}")
     Entry replaceEntry(@RequestBody Entry newEntry, @PathVariable Long id) {
 
@@ -50,6 +46,7 @@ public class EntryController {
                 });
     }
 
+    // Delete entry with this id
     @DeleteMapping("/entries/{id}")
     void deleteEntry(@PathVariable Long id) {
         repository.deleteById(id);
