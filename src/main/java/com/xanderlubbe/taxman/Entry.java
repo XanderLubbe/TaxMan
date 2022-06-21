@@ -7,18 +7,15 @@ import lombok.NoArgsConstructor;
 
 import java.util.Objects;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.Table;
+import javax.persistence.*;
 
 @Entity
-@Table(name = "entry")
+@Table(name = "entry" )
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
 public class Entry {
-    private @Id @GeneratedValue long id;
+    private @Id @GeneratedValue(strategy = GenerationType.IDENTITY) long id;
     private int lowerLimit;
     private int upperLimit;
     private int tax1;
