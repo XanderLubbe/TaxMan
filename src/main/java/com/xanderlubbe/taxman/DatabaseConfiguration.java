@@ -1,5 +1,7 @@
 package com.xanderlubbe.taxman;
 
+import com.xanderlubbe.taxman.model.Tax;
+import com.xanderlubbe.taxman.repository.TaxRepository;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
@@ -8,43 +10,43 @@ import org.springframework.context.annotation.Configuration;
 import org.springframework.core.io.ClassPathResource;
 
 import java.io.BufferedReader;
-import java.io.File;
 import java.io.InputStreamReader;
-import java.nio.file.Files;
-import java.nio.file.Path;
-import java.util.List;
-import java.util.Scanner;
+
+import static com.xanderlubbe.taxman.Constants.CSV_DATA_FILE;
+import static com.xanderlubbe.taxman.Constants.SQL_DATA_FILE;
 
 @Configuration
 class DatabaseConfiguration {
-    private static final Logger log = LoggerFactory.getLogger(DatabaseConfiguration.class);
-
     @Bean
-    CommandLineRunner initDatabase(EntryRepository repository) {
+    CommandLineRunner initDatabase(TaxRepository repository) {
 
         return args -> {
 
+            ClassPathResource otherPathResource = new ClassPathResource(SQL_DATA_FILE);
 
-            File f = new File("/Users/xander/Desktop/Projects/TaxMan/src/main/resources/data.sql");
-            if(f.exists()) {
-                System.out.println("fileName exists");
-            } else {
-                System.out.println("fileName does not exist");
-                ClassPathResource classPathResource = new ClassPathResource("data.csv");
+            if (!otherPathResource.exists()) {
+                System.out.println(SQL_DATA_FILE + " does not exist");
+
+                ClassPathResource classPathResource = new ClassPathResource(CSV_DATA_FILE);
                 InputStreamReader inputStreamReader = new InputStreamReader(classPathResource.getInputStream());
                 BufferedReader bufferedReader = new BufferedReader(inputStreamReader);
                 String line = bufferedReader.readLine();
 
-                while (line != null){
-                    System.out.println(line);
+                while (line != null) {
+
+                    // Java map (stream)
                     String[] cols = line.split(", ");
                     int size = cols.length;
                     int[] intArr = new int[size];
-                    for(int i=0; i<size; i++) {
-                        intArr[i] = Integer.parseInt(cols[i]);
-                    }
 
-                    repository.save(new Entry(intArr[0], intArr[1], intArr[2], intArr[3], intArr[4]));
+                    for (int i = 0; i < size; i++) {
+                        // check that parse does not fail
+                        intArr[i] = Integer.parseInt(cols[i]);
+                        // catch exception here
+                    }
+                    // check that index does not go out of bounds :)
+                    repository.save(new Tax(intArr[0], intArr[1], intArr[2], intArr[3], intArr[4]));
+
                     line = bufferedReader.readLine();
                 }
 
@@ -53,12 +55,6 @@ class DatabaseConfiguration {
                 // TODO generate backup sql file here
             }
 
-
-
-
-
-//            log.info("Preloading " + repository.save(new Entry(00,11,22,33,44)));
-//            log.info("Preloading " + repository.save(new Entry(10,9,8,7,6)));
         };
     }
 }

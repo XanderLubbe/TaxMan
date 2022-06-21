@@ -1,20 +1,19 @@
-package com.xanderlubbe.taxman;
+package com.xanderlubbe.taxman.model;
 
 import lombok.AllArgsConstructor;
-import lombok.Builder;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 
-import java.util.Objects;
-
 import javax.persistence.*;
 
+import static com.xanderlubbe.taxman.Constants.TAX_TABLE_NAME;
+
 @Entity
-@Table(name = "entry" )
+@Table(name = TAX_TABLE_NAME)
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Entry {
+public class Tax {
     private @Id @GeneratedValue(strategy = GenerationType.IDENTITY) long id;
     private int lowerLimit;
     private int upperLimit;
@@ -22,7 +21,7 @@ public class Entry {
     private int tax2;
     private int tax3;
 
-    Entry(int lowerLimit, int upperLimit, int tax1, int tax2, int tax3) {
+    public Tax(int lowerLimit, int upperLimit, int tax1, int tax2, int tax3) {
 
         this.lowerLimit = lowerLimit;
         this.upperLimit = upperLimit;
