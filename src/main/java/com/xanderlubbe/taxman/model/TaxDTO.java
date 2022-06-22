@@ -13,20 +13,20 @@ import static com.xanderlubbe.taxman.Constants.TAX_TABLE_NAME;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class Tax {
+public class TaxDTO {
     private @Id @GeneratedValue(strategy = GenerationType.IDENTITY) long id;
     private int lowerLimit;
     private int upperLimit;
-    private int tax1;
-    private int tax2;
-    private int tax3;
+    private int taxUnder65;
+    private int taxUnder74;
+    private int taxOver75;
 
-    public Tax(int lowerLimit, int upperLimit, int tax1, int tax2, int tax3) {
+    public TaxDTO(int lowerLimit, int upperLimit, int taxUnder65, int taxUnder74, int taxOver75) {
 
         this.lowerLimit = lowerLimit;
         this.upperLimit = upperLimit;
-        this.tax1 = tax1;
-        this.tax2 = tax2;
-        this.tax3 = tax3;
+        this.taxUnder65 = taxUnder65;
+        this.taxUnder74 = taxUnder74;
+        this.taxOver75 = taxOver75;
     }
 }
