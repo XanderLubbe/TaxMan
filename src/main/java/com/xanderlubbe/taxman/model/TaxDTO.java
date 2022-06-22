@@ -17,16 +17,16 @@ public class TaxDTO {
     private @Id @GeneratedValue(strategy = GenerationType.IDENTITY) long id;
     private int lowerLimit;
     private int upperLimit;
-    private int taxUnder65;
-    private int taxUnder74;
-    private int taxOver75;
+    private int amountUnder65;
+    private int amountUnder74;
+    private int amountOver75;
 
-    public TaxDTO(int lowerLimit, int upperLimit, int taxUnder65, int taxUnder74, int taxOver75) {
+    public TaxDTO(int lowerLimit, int upperLimit, int amountUnder65, int amountUnder74, int amountOver75) {
 
         this.lowerLimit = lowerLimit;
         this.upperLimit = upperLimit;
-        this.taxUnder65 = taxUnder65;
-        this.taxUnder74 = taxUnder74;
-        this.taxOver75 = taxOver75;
+        this.amountUnder65 = amountUnder65;
+        this.amountUnder74 = amountUnder74;
+        this.amountOver75 = amountOver75;
     }
 }

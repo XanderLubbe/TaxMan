@@ -3,18 +3,18 @@ package com.xanderlubbe.taxman.model;
 import lombok.Getter;
 
 @Getter
-public class unspecifiedAgeResponse {
+public class UnspecifiedAgeResponse {
 
-    private final int taxUnder65;
+    private final int amountUnder65;
 
-    private final int taxUnder74;
+    private final int amountUnder74;
 
-    private final int taxOver75;
+    private final int amountOver75;
 
-    public unspecifiedAgeResponse(int taxUnder65, int taxUnder74, int taxOver75){
-        this.taxUnder65 = taxUnder65;
-        this.taxUnder74 = taxUnder74;
-        this.taxOver75 = taxOver75;
+    public UnspecifiedAgeResponse(int amountUnder65, int amountUnder74, int amountOver75){
+        this.amountUnder65 = amountUnder65;
+        this.amountUnder74 = amountUnder74;
+        this.amountOver75 = amountOver75;
     }
 
 

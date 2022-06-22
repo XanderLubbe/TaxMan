@@ -3,11 +3,11 @@ package com.xanderlubbe.taxman.model;
 import lombok.Getter;
 
 @Getter
-public class specifiedAgeResponse {
+public class SpecifiedAgeResponse {
 
     private final int amount;
 
-    public specifiedAgeResponse(int amount){
+    public SpecifiedAgeResponse(int amount){
         this.amount = amount;
     }
 

@@ -1,8 +1,8 @@
 package com.xanderlubbe.taxman.service;
 
 import com.xanderlubbe.taxman.model.TaxDTO;
-import com.xanderlubbe.taxman.model.unspecifiedAgeResponse;
-import com.xanderlubbe.taxman.model.specifiedAgeResponse;
+import com.xanderlubbe.taxman.model.UnspecifiedAgeResponse;
+import com.xanderlubbe.taxman.model.SpecifiedAgeResponse;
 import com.xanderlubbe.taxman.repository.TaxRepository;
 import org.springframework.stereotype.Service;
 
@@ -15,35 +15,35 @@ public class TaxService {
         this.repository = repository;
     }
 
-    public specifiedAgeResponse findTaxesService(int salary, int age){
+    public SpecifiedAgeResponse findTaxesService(int salary, int age){
 
         TaxDTO repoTaxDTO = repository.findTaxesRepo(salary);
         int returnedAmount;
         if (age < 65 ){
 
-             returnedAmount = repoTaxDTO.getTaxUnder65();
+             returnedAmount = repoTaxDTO.getAmountUnder65();
 
         } else if (age >= 65 && age < 75) {
 
-            returnedAmount = repoTaxDTO.getTaxUnder74();
+            returnedAmount = repoTaxDTO.getAmountUnder74();
 
         } else {
 
-            returnedAmount = repoTaxDTO.getTaxOver75();
+            returnedAmount = repoTaxDTO.getAmountOver75();
 
         }
 
-        return new specifiedAgeResponse(returnedAmount);
+        return new SpecifiedAgeResponse(returnedAmount);
     }
 
-    public unspecifiedAgeResponse findTaxesService(int salary){
+    public UnspecifiedAgeResponse findTaxesService(int salary){
 
         TaxDTO repoTaxDTO = repository.findTaxesRepo(salary);
 
-        int returnedTaxUnder65 = repoTaxDTO.getTaxUnder65();
-        int returnedTaxUnder74 = repoTaxDTO.getTaxUnder74();
-        int returnedTaxOver75 = repoTaxDTO.getTaxOver75();
-        return new unspecifiedAgeResponse(returnedTaxUnder65, returnedTaxUnder74, returnedTaxOver75);
+        int returnedTaxUnder65 = repoTaxDTO.getAmountUnder65();
+        int returnedTaxUnder74 = repoTaxDTO.getAmountUnder74();
+        int returnedTaxOver75 = repoTaxDTO.getAmountOver75();
+        return new UnspecifiedAgeResponse(returnedTaxUnder65, returnedTaxUnder74, returnedTaxOver75);
 
 //        return  repository.findTaxesRepo(salary);
     }
