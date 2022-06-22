@@ -1,9 +1,7 @@
 package com.xanderlubbe.taxman;
 
-import com.xanderlubbe.taxman.model.Tax;
+import com.xanderlubbe.taxman.model.TaxDTO;
 import com.xanderlubbe.taxman.repository.TaxRepository;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -45,7 +43,7 @@ class DatabaseConfiguration {
                         // catch exception here
                     }
                     // check that index does not go out of bounds :)
-                    repository.save(new Tax(intArr[0], intArr[1], intArr[2], intArr[3], intArr[4]));
+                    repository.save(new TaxDTO(intArr[0], intArr[1], intArr[2], intArr[3], intArr[4]));
 
                     line = bufferedReader.readLine();
                 }
