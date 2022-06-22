@@ -1,11 +1,10 @@
 package com.xanderlubbe.taxman.service;
 
-import com.xanderlubbe.taxman.model.Tax;
+import com.xanderlubbe.taxman.model.TaxDTO;
+import com.xanderlubbe.taxman.model.unspecifiedAgeResponse;
+import com.xanderlubbe.taxman.model.specifiedAgeResponse;
 import com.xanderlubbe.taxman.repository.TaxRepository;
-import org.springframework.stereotype.Component;
 import org.springframework.stereotype.Service;
-
-import java.util.Collection;
 
 @Service
 public class TaxService {
@@ -16,11 +15,36 @@ public class TaxService {
         this.repository = repository;
     }
 
-    public Collection<Tax> findTaxesService(int salary){
-        return  repository.findTaxesRepo(salary);
+    public specifiedAgeResponse findTaxesService(int salary, int age){
+
+        TaxDTO repoTaxDTO = repository.findTaxesRepo(salary);
+        int returnedAmount;
+        if (age < 65 ){
+
+             returnedAmount = repoTaxDTO.getTaxUnder65();
+
+        } else if (age >= 65 && age < 75) {
+
+            returnedAmount = repoTaxDTO.getTaxUnder74();
+
+        } else {
+
+            returnedAmount = repoTaxDTO.getTaxOver75();
+
+        }
+
+        return new specifiedAgeResponse(returnedAmount);
     }
 
-    public Collection<Tax> findTaxesService(int salary, int age){
-        return  repository.findTaxesRepo(salary);
+    public unspecifiedAgeResponse findTaxesService(int salary){
+
+        TaxDTO repoTaxDTO = repository.findTaxesRepo(salary);
+
+        int returnedTaxUnder65 = repoTaxDTO.getTaxUnder65();
+        int returnedTaxUnder74 = repoTaxDTO.getTaxUnder74();
+        int returnedTaxOver75 = repoTaxDTO.getTaxOver75();
+        return new unspecifiedAgeResponse(returnedTaxUnder65, returnedTaxUnder74, returnedTaxOver75);
+
+//        return  repository.findTaxesRepo(salary);
     }
 }
