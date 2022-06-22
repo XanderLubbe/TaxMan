@@ -11,7 +11,10 @@ import static com.xanderlubbe.taxman.Constants.TAX_TABLE_NAME;
 
 public interface TaxRepository extends JpaRepository<Tax, Long> {
 
-    @Query("SELECT e FROM " + TAX_TABLE_NAME + " e where e.lowerLimit <= :salary AND e.upperLimit >= :salary" )
-    Collection<Tax> findTaxes(@Param("salary") int salary);
+      @Query("SELECT e FROM " + TAX_TABLE_NAME + " e WHERE e.lowerLimit <= :salary AND e.upperLimit >= :salary")
+      Collection<Tax> findTaxes(@Param("salary") int salary);
+
+//    @Query("SELECT e FROM " + TAX_TABLE_NAME + " e where e.lowerLimit <= :salary AND e.upperLimit >= :salary" )
+//    Collection<Tax> findTaxes(@Param("salary") int salary);
 
 }

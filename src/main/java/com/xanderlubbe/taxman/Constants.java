@@ -1,7 +1,10 @@
 package com.xanderlubbe.taxman;
 
 public class Constants {
-    public final static String TAX_TABLE_NAME = "PAYE_Tax";
+
+    // TODO: Find a way to reference the Tax class in a way that produces a constant
+    // This has to be the class name of the class annotated with Table
+    public final static String TAX_TABLE_NAME = "Tax";
 
     public final static String SQL_DATA_FILE = "data.sql";
 
