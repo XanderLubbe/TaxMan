@@ -9,6 +9,7 @@ A simple PAYE Tax API designed in Java.
 * [Technologies](#technologies)
 * [Some background](#some-background)
 * [Launch](#launch)
+* [Data](#data)
 ***
 ## Introduction
 TaxMan is an API for finding applicable PAYE tax amounts based on a monthly salary. 
@@ -66,14 +67,14 @@ return only one based on the age you provide. Here is an example of how it looks
     ```
 
 
-
+***
 ## Launch
 
 The application can be launched by running:
 `gradle build`
 Followed by:
 `gradle bootrun`
-
+***
 ## Data
 ### How data is loaded
 The application's database is populated by either it's `data.csv` or `data.sql` file. The data.csv is used
@@ -103,3 +104,4 @@ export of the database's table can done. This export will replace the 'data.sql'
     (2, 7479, 0, 0, 0, 7529),
     ... ;
     ```
+***
