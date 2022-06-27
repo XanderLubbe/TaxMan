@@ -8,24 +8,30 @@ A simple PAYE Tax API designed in Java.
 * [Introduction](#introduction)
 * [Technologies](#technologies)
 * [Some background](#some-background)
-* [Launch](#launch)
+* [Getting Started](#getting-started)
 * [Data](#data)
 ***
 ## Introduction
 TaxMan is an API for finding applicable PAYE tax amounts based on a monthly salary. 
-It works by providing it with either your salary amount, or your salary amount as 
+It works by providing it with either your salary amount or your salary amount as 
 well as your age. The former will return a response with three applicable amounts,
 those being the tax amounts for under 65's, between 65 and 74, and over 75's. The latter
-will return the applicable tax for you salary and age.
+will return the applicable tax for your salary and age.
 ***
 ## Technologies
 * Java
+* Gradle 
 * Spring Boot
 * JPA
 * H2
+* Swagger
+
+Swagger documentation can be found at the URL - `http://localhost:8080/swagger-ui/`.
+
+The H2 database console can be found at the URL - `localhost:8080/h2-console/`, the username is `sa` and the password is blank.
 ***
 ## Some background
-As stated in the [introduction](#introduction) the API can be hit at two endpoints, 
+As stated in the [introduction](#introduction), the API can be hit at two endpoints, 
 namely /taxes and /tax. The first will return three applicable amounts, the second will 
 return only one based on the age you provide. Here is an example of how it looks:
 * ### /taxes
@@ -68,17 +74,20 @@ return only one based on the age you provide. Here is an example of how it looks
 
 
 ***
-## Launch
+## Getting Started
 
 The application can be launched by running:
+
 `gradle build`
+
 Followed by:
+
 `gradle bootrun`
 ***
 ## Data
 ### How data is loaded
-The application's database is populated by either it's `data.csv` or `data.sql` file. The data.csv is used
-when the data.sql cannot be found inside of the resources folder. The data.sql is run by default in most
+The application's database is populated by either its `data.csv` or `data.sql` file. The data.csv is used
+when the data.sql cannot be found inside the resources folder. The data.sql is run by default in most
 cases. 
 
 ### How to modify loaded data
