@@ -26,13 +26,13 @@ will return the applicable tax for your salary and age.
 * H2
 * Swagger
 
-Swagger documentation can be found @ - `http://localhost:8080/swagger-ui/`.
+Swagger documentation can be found @  `http://localhost:8080/swagger-ui/`.
 
-The H2 database console can be found @ - `http://localhost:8080/h2-console/`, the username is `sa` and the password is blank.
+The H2 database console can be found @  `http://localhost:8080/h2-console/`, the username is `sa` and the password is blank.
 ***
 ## Some background
 As stated in the [introduction](#introduction), the API can be hit at two endpoints, 
-namely /taxes and /tax. The first will return three applicable amounts, the second will 
+namely `/taxes` and `/tax`. The first will return three applicable amounts, the second will 
 return only one based on the age you provide. Here is an example of how it looks:
 * ### /taxes
   #### Request URL
