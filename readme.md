@@ -22,13 +22,13 @@ will return the applicable tax for your salary and age.
 * Java
 * Gradle 
 * Spring Boot
-* JPA
+* Hibernate (JPA)
 * H2
 * Swagger
 
-Swagger documentation can be found at the URL - `http://localhost:8080/swagger-ui/`.
+Swagger documentation can be found @ - `http://localhost:8080/swagger-ui/`.
 
-The H2 database console can be found at the URL - `localhost:8080/h2-console/`, the username is `sa` and the password is blank.
+The H2 database console can be found @ - `http://localhost:8080/h2-console/`, the username is `sa` and the password is blank.
 ***
 ## Some background
 As stated in the [introduction](#introduction), the API can be hit at two endpoints, 
@@ -76,13 +76,15 @@ return only one based on the age you provide. Here is an example of how it looks
 ***
 ## Getting Started
 
-The application can be launched by running:
+The application can be launched by:
+
+Build:
 
 `gradle build`
 
-Followed by:
+Run:
 
-`gradle bootrun`
+`gradle bootRun`
 ***
 ## Data
 ### How data is loaded
@@ -94,7 +96,7 @@ cases.
 There is one correct way of loading new data to be populated into the database, and this is by updating
 the `data.csv` with the new data and then immediately deleting the current `data.sql` as it will be holding
 the old data. Once the application is run, the new data will be populated into the database and then an
-export of the database's table can done. This export will replace the 'data.sql' file.
+export of the database's table will be done, this export will replace the deleted `data.sql` file.
 
 ### Structures for the `data.csv` and `data.sql`:
 * #### CSV
